@@ -1,3 +1,7 @@
+This is original Kenny Yip Coding https://github.com/ImKennyYip/whac-a-mole
+
+I added Finnish comments to the code
+
 # [WHAC A MOLE](https://youtu.be/ej8SatOj3V4)
 - Coding Tutorial: https://youtu.be/ej8SatOj3V4
 - Demo: https://imkennyyip.github.io/whac-a-mole/
